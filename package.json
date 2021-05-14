@@ -1,0 +1,21 @@
+{
+  "name": "wow-bot-api",
+  "version": "1.0.0",
+  "description": "wow bot user api",
+  "main": "app.js",
+  "author": "adilvelizade",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.10",
+    "@types/express": "^4.17.11"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
